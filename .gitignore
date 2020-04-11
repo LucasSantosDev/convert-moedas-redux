@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#apiKey Curency
+/src/config/currencyApi.js
+
 # production
 /build
 
